@@ -1,3 +1,7 @@
 [[kv_namespaces]]
 binding = "IP_STORAGE"
 id = "e17d79e74ad14bc89735fd28d1b79eed"
+
+name = "worker-name"
+compatibility_date = "2025-11-26"
+main = "src/index.ts"
